@@ -13,6 +13,7 @@ public class Accountmain {
 	System.out.println(am.getAccno());
 	System.out.println(am.getAmount());
 	System.out.println(am.getName());
+	System.out.println("new man");
 	
 	
 	}
