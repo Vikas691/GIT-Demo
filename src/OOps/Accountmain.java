@@ -15,6 +15,10 @@ public class Accountmain {
 	System.out.println(am.getName());
 	System.out.println("new man");
 	
+	System.out.println("new an");
+	System.out.println("new jan");
+	System.out.println("new nan");
+	
 	
 	}
 
